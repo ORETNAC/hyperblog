@@ -11,6 +11,7 @@ En este curso vemos de todo:
 * Las personalidades multiples de freddy
 * Prueba de los cherry-pick
 * Segunda prueba cherry-pick
+* Tercera prueba cherry-pick
 Y como amable recordatorio: **Este readme.md es un chiste**
 
 
