@@ -10,7 +10,7 @@ En este curso vemos de todo:
 * Trucos muy locos del profesor
 * Las personalidades multiples de freddy
 * Prueba de los cherry-pick
-
+* Segunda prueba cherry-pick
 Y como amable recordatorio: **Este readme.md es un chiste**
 
 
