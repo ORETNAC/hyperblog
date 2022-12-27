@@ -9,6 +9,7 @@ En este curso vemos de todo:
 * El verdadero amor por las buenas practicas
 * Trucos muy locos del profesor
 * Las personalidades multiples de freddy
+* Prueba de los cherry-pick
 
 Y como amable recordatorio: **Este readme.md es un chiste**
 
